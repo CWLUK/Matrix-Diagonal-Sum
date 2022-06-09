@@ -1,2 +1,1 @@
-# Matrix-Diagonal-Sum
-Array
+https://leetcode.com/problems/matrix-diagonal-sum
